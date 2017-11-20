@@ -9,7 +9,7 @@ return {
   width = 30,
   height = 17,
   objects = {{"assets/img/game/objects/teleport.png",13,0,teleportObject,{1,2,13,14}},{"assets/img/game/objects/teleport.png",14,0,teleportObject,{1,2,14,14}},{"assets/img/game/objects/teleport.png",15,0,teleportObject,{1,2,15,14}}},
-  npcs = {{"assets/img/game/units/red.png",5,2,npcTurner,"Red"},{"assets/img/game/units/yellow.png",10,2,npcTurner,"Yellow"},{"assets/img/game/units/green.png",24,3,npcTurner,"Green"},{"assets/img/game/units/Chicken.png",3,7,npcChicken,"Chicken"}},
+  npcs = {{"assets/img/game/units/red.png",5,2,npcTurner,"Red"},{"assets/img/game/units/yellow.png",10,2,npcTurner,"Yellow"},{"assets/img/game/units/green.png",24,3,npcTurner,"Green"},{"assets/img/game/units/chicken.png",3,7,npcChicken,"Chicken"}},
 
   tilesetSource = "assets/img/game/tilemaps/testSet.png",
 
